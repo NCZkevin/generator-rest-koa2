@@ -7,13 +7,13 @@ First, install [Yeoman](http://yeoman.io) and generator-rest-koa-2 using [npm](h
 
 ```bash
 npm install -g yo
-npm install -g generator-rest-koa-2
+npm install -g generator-rest-koa2
 ```
 
 Then generate your new project:
 
 ```bash
-yo rest-koa-2
+yo rest-koa2
 ```
 
 ## Getting To Know Yeoman
