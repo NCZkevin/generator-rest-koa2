@@ -1,4 +1,4 @@
-# generator-rest-koa-2 [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![dependencies Status](https://david-dm.org/nczkevin/generator-rest-koa2/status.svg)](https://david-dm.org/nczkevin/generator-rest-koa2)
+# generator-rest-koa-2 [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
 > koa2 restful
 
 ## Installation
@@ -32,4 +32,5 @@ MIT © [nczkevin](nczkevin.com)
 [npm-url]: https://www.npmjs.com/package/generator-rest-koa2
 [travis-image]: https://travis-ci.org/nczkevin/generator-rest-koa2.svg?branch=master
 [travis-url]: https://travis-ci.org/nczkevin/generator-rest-koa2
-
+[daviddm-image]: https://david-dm.org/nczkevin/generator-rest-koa2/status.svg
+[daviddm-url]: https://david-dm.org/nczkevin/generator-rest-koa2
