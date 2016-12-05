@@ -28,9 +28,9 @@ yo rest-koa2
 MIT © [nczkevin](nczkevin.com)
 
 
-[npm-image]: https://badge.fury.io/js/generator-rest-koa-2.svg
-[npm-url]: https://npmjs.org/package/generator-rest-koa-2
-[travis-image]: https://travis-ci.org/nczkevin/generator-rest-koa-2.svg?branch=master
-[travis-url]: https://travis-ci.org/nczkevin/generator-rest-koa-2
-[daviddm-image]: https://david-dm.org/nczkevin/generator-rest-koa-2.svg?theme=shields.io
-[daviddm-url]: https://david-dm.org/nczkevin/generator-rest-koa-2
+[npm-image]: https://badge.fury.io/js/generator-rest-koa2.svg
+[npm-url]: https://www.npmjs.com/package/generator-rest-koa2
+[travis-image]: https://travis-ci.org/nczkevin/generator-rest-koa2.svg?branch=master
+[travis-url]: https://travis-ci.org/nczkevin/generator-rest-koa2
+[daviddm-image]: https://david-dm.org/nczkevin/generator-rest-koa2.svg?theme=shields.io
+[daviddm-url]: https://david-dm.org/nczkevin/generator-rest-koa2
