@@ -24,6 +24,26 @@ Koa2 REST using :
  - Asynchronous Functions (Async/Await)
  - restc
 
+### Running
+Install dependencies
+```
+npm install
+```
+
+Start a Local Server
+```
+npm start
+```
+
+Run Test
+```
+npm test
+```
+
+Building and Running Production Server
+```
+npm run prod
+```
 **Note : Please make sure your MongoDB is running before using ```npm start``` or ```npm run prod```**
 
 ## Getting To Know Yeoman
