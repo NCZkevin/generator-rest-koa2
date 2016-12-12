@@ -7,7 +7,7 @@ import routing from './routes/'
 import { port, connexionString } from './config'
 
 mongoose.Promise = global.Promise;
-mongoose.connect('connexionString')
+mongoose.connect(connexionString)
 mongoose.connection.on('error', console.error)
 
 // Create Koa Application
