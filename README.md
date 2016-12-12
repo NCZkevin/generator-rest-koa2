@@ -1,4 +1,4 @@
-# generator-rest-koa-2 [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
+# generator-rest-koa-2 [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url]
 > koa2 restful
 
 ## Installation
@@ -15,6 +15,16 @@ Then generate your new project:
 ```bash
 yo rest-koa2
 ```
+## Scaffolded App
+Koa2 REST using :
+
+ - Koa 2
+ - Mongodb + Mongoose
+ - Babel
+ - Asynchronous Functions (Async/Await)
+ - restc
+
+**Note : Please make sure your MongoDB is running before using ```npm start``` or ```npm run prod```**
 
 ## Getting To Know Yeoman
 
