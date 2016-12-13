@@ -1,6 +1,6 @@
 {
   "name": "generator-rest-koa2",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "koa2 restful",
   "homepage": "https://github.com/NCZkevin/generator-rest-koa2",
   "author": {
