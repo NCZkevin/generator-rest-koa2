@@ -2,7 +2,7 @@
   "name": "generator-rest-koa2",
   "version": "0.2.0",
   "description": "koa2 restful",
-  "homepage": "https://github.com/NCZkevin/rest-koa",
+  "homepage": "https://github.com/NCZkevin/generator-rest-koa2",
   "author": {
     "name": "nczkevin",
     "email": "nczkevin@163.com",
@@ -48,7 +48,7 @@
       "mocha": true
     }
   },
-  "repository": "nczkevin/generator-rest-koa-2",
+  "repository": "nczkevin/generator-rest-koa2",
   "scripts": {
     "prepublish": "gulp prepublish",
     "test": "gulp"
